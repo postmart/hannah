@@ -1609,3 +1609,91 @@ body {
 .cid-qX4Fcccjsw .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-qYCZPqnV0b {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #fafafa;
+}
+.cid-qYCZPqnV0b .progress {
+  width: 100%;
+}
+.cid-qYCZPqnV0b progress {
+  height: 8px;
+}
+.cid-qYCZPqnV0b h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-qYCZPqnV0b .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qYCZPqnV0b .progress_value {
+  position: relative;
+}
+.cid-qYCZPqnV0b .progress_elements {
+  margin: 0 auto;
+}
+.cid-qYCZPqnV0b .title-wrap {
+  display: flex;
+  justify-content: space-between;
+}
+.cid-qYCZPqnV0b .progress1 .progressbar-number:before,
+.cid-qYCZPqnV0b .progress2 .progressbar-number:before,
+.cid-qYCZPqnV0b .progress3 .progressbar-number:before,
+.cid-qYCZPqnV0b .progress4 .progressbar-number:before {
+  position: absolute;
+  right: 15px;
+  top: 0;
+}
+.cid-qYCZPqnV0b progress[value]::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-qYCZPqnV0b progress::-webkit-progress-value {
+  background: #149dcc;
+}
+.cid-qYCZPqnV0b progress[value]::-moz-progress-bar {
+  background: #149dcc;
+}
+.cid-qYCZPqnV0b progress::-ms-fill {
+  background: #149dcc;
+}
+.cid-qYCZPqnV0b .progress1 .progressbar-number:before {
+  content: '100';
+}
+.cid-qYCZPqnV0b .progress2 .progressbar-number:before {
+  content: '100';
+}
+.cid-qYCZPqnV0b .progress3 .progressbar-number:before {
+  content: '100';
+}
+.cid-qYCZPqnV0b .progress4 .progressbar-number:before {
+  content: '100';
+}
+.cid-qYCZPqnV0b .progress-primary {
+  background: rgba(206, 206, 206, 0.4);
+  border: none;
+  outline: none;
+}
+.cid-qYCZPqnV0b .progress-primary::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-qYCZPqnV0b .progress_value span {
+  padding-left: 30px;
+}
+.cid-qYD3oTAJcN {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f3f4f6;
+}
+.cid-qYD3oTAJcN .testimonial-text {
+  font-style: italic;
+  color: #676767;
+  font-weight: 300;
+}
+.cid-qYD3oTAJcN .mbr-author-name {
+  font-weight: bold;
+  color: #232;
+}
+.cid-qYD3oTAJcN .mbr-author-desc {
+  color: #232;
+}
